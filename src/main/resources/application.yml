@@ -1,0 +1,6 @@
+server:
+  port: 8085
+security:
+  user:
+    name: admin
+    password: admin
